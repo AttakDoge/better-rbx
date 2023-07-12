@@ -1,0 +1,3 @@
+\AppData\Local\Roblox\Versions\roblox version\content\textures\ui\TopBar
+\AppData\Local\Roblox\Versions\roblox version\content\textures\Cursors\KeyboardMouse
+\AppData\Local\Roblox\Versions\roblox version\content\sounds
