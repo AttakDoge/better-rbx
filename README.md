@@ -1,7 +1,7 @@
 # better-rbx
 making a cmd script to make roblox better (no fps cap, open an issue &amp; requests post to request for more features)
 
-version v1 will be very clunky and has a lot of setup needed, planning to make this better over time
-
-V1 Instructions: (NOT READY YET, THESE MAY CHANGE)
-They should be listed in the cmd file. To view it, right click on the file, and hit the "Edit" button. Read the lines that have the double colon (::) 
+V1 IS OUT!
+Go to the releases tab to download the zip!
+To run the script: run better-rblx-V1.cmd
+If you have all the files needed it will work!
